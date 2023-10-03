@@ -1,6 +1,6 @@
 ##  Welcome to Altinn!😁
 
-![helping each other](https://github.com/Altinn/.github/assets/6088624/32d410a0-46fe-4aec-a0e6-a3a556f0759f)
+![helping each other](https://github.com/Altinn/.github/assets/6088624/bf887130-68ae-45f7-ad5a-0fbb4492bb07)
 
 A helpful [community](https://docs.altinn.studio/community) and [open source solutions](https://github.com/orgs/Altinn/repositories) maintained by [Digdir](https://www.digdir.no/digdir/about-norwegian-digitalisation-agency/887).
 
