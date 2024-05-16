@@ -1,5 +1,5 @@
 ---
-name: 🧪 Testplan
+name: Testplan 🧪
 about: Create a new testplan 
 title: Testplan for <EPIC/FEATURE/CASE>
 labels: kind/testplan
